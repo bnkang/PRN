@@ -39,12 +39,9 @@ Comparison of the number of DCNNs, the number of images, the dimensionality of f
 
 ### Related Papers
 
-1. Bong-Nam Kang, Yonghyun Kim, Daijin Kim, "Deep Convolutional Neural Network using Triplets of Faces, Deep Ensemble, and Score-level Fusion for Face Recognition,"  2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2017.  [[pdf]](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w6/papers/Kang_Deep_Convolutional_Neural_CVPR_2017_paper.pdf) [[slides]](http://vislab.ucr.edu/Biometrics2017/program_slides/PaperID56_CVPRW_BNKANG_Oral.pdf) [[poster]](http://vislab.ucr.edu/Biometrics2017/program_slides/PaperID56_CVPRW_BNKANG_Poster.pdf)
-2. Junghoon Kim, Sang-Seok Yun, Bong-Nam Kang, Daijin Kim, JongSeok Choi, "Reliable Multi-Person Identification using DCNN-based Face Recognition Algorithm and Scale-Ratio Method," 14th International Conference on Ubiquitous Robots and Ambient Intelligence (URAI 2017), 2017. - Best Application Paper Award
-3. 강봉남, 김대진, "공동 손실 함수, Triplet, 스코어 레벨 융합 방법에 의한 Deep 얼굴 인식 방법," 2017 한국컴퓨터종합학술대회 (KCC 2017), 2017.  - 우수논문 수상
-4. Bong-Nam Kang, Daijin Kim, "Deep Convolution Neural Network using Triplet of Faces for Face Recognition in the Wild," The 16th International Conference on Control, Automation and Systems (ICCAS 2016), 2016.
-5. Bong-Nam Kang, Daijin Kim, "Deep Convolution Neural Network with Stacks of Multi-Scale Convolutional Layer Block using Triplet of Faces for Face Recognition in the Wild," The 2016 IEEE International Conference on System, Man, and Cybernetics (SMC 2016), 2016.
-
+1. Bong-Nam Kang, Yonghyun Kim, Daijin Kim, "Pairwise Relational Networks using Local Appearance Features for Face Recognition,"  R2L Workshop at Neural Information Processing Systems (NIPS 2018), 2018.  [[pdf]](https://arxiv.org/pdf/1811.06405.pdf)  
+2. Bong-Nam Kang, Yonghyun Kim, Daijin Kim, "Pairwise Relational Networks for Face Recognition,"  European Conference on Computer Vision, 2018.  [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Kang_Pairwise_Relational_Networks_ECCV_2018_paper.pdf)  
+3. 강봉남, 김대진, "얼굴 인식을 위한 국부 외관 특징을 사용한 쌍 관계형 네트워크," 2018 한국컴퓨터종합학술대회 (KCC 2018), 2018.  - 우수발표논문 수상
 
 ### Code
 
